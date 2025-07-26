@@ -1,6 +1,12 @@
-# Aart-First-Github
-Service To The Brain.
-This is my first edit on Github and 
-I am going to make sure that i better and master it very! very! well.
-God love's you all
-You have No idea, on how i love this very course.
+import random
+import os
+
+def get_user_input(prompt)
+"""Helper function to get string input from the user."""
+return input(prompt).strip()
+
+def get_valid_rating():
+"""Helper function to get a validated 1-5 star rating."""
+while True
+try:
+rating
