@@ -1,1 +1,6 @@
+import random
+import os
 
+def get_user_input(prompt):
+"""Helper function to get string input from the user."""
+return input(prompt).strip()
